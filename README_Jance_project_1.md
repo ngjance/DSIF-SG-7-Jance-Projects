@@ -93,8 +93,7 @@ The acceptance rate at the universities are not 100%.
 To find out the probability of students getting accepted into a university based on their parental education,
 we use the below:
 
-|Percentage of universities students likely to be accepted| * |mean acceptance rate of the universities|
-|---|---|---|
+<p align="center"><b>Percentage of universities students likely to be accepted * mean acceptance rate of the universities</b></p>
 
 That works out to the following:
 
